@@ -1,6 +1,6 @@
 to push the file to github means that you take the work from local computer to ggithub and this happens in 4 steps 
 1) unstage the work
-2) stage the work
-3) commit the work
-4) Push the work
+2) stage the work --> git add file_name 
+3) commit the work --> git commit -m "commit msg"
+4) Push the work --> git push origin master
 
